@@ -37,3 +37,16 @@ This architecture follows the standard **Retrieval-Augmented Generation (RAG)** 
 - Streamlit / Flask / FastAPI (choose what fits your implementation)
 
 ---
+
+## 📦 Installation
+
+```bash
+# Cloner le dépôt depuis GitHub
+git clone https://github.com/safouane498/Ai-document-assistant.git
+
+# Se déplacer dans le dossier du projet
+cd Ai-document-assistant
+
+# Installer les dépendances
+pip install -r requirements.txt
+
